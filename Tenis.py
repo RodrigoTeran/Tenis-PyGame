@@ -6,7 +6,7 @@ pygame.init()
 # RGB (0-255)
 color = (255, 255, 255)
 window = pygame.display.set_mode((1200, 800))
-pygame.display.set_caption("Hola Mundo")
+pygame.display.set_caption("Tenis Game")
 # Bola
 posicion_X, posicion_Y = 550, 500
 velocidad_bola_x = 1
